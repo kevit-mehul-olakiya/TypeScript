@@ -1,0 +1,4 @@
+node_modules /
+stats/node_modules
+.parcel-cache
+maps/node_modules
